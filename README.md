@@ -35,7 +35,7 @@ How to Run the Project
 
 5. Run the application:
    
-   python -m streamlit run app.py
+   streamlit run AI_Powered_Product_Recommendation_and_Customer_Behavior_Analysis/app.py
 
 6. Open the local URL displayed in the terminal.
 
